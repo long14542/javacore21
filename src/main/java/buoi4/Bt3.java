@@ -8,7 +8,9 @@ public class Bt3 {
         Scanner scanner = new Scanner(System.in);
         int[] arr = {1, 2, 4, 0, 1, 3};
         int[] arrNew = new int[7];
-        System.arraycopy(arr, 0, arrNew, 0, arr.length);
+        for (int i = 0; i < arr.length; i++) {
+            arrNew[i] = arr[i];
+        }
         int value = Integer.parseInt(scanner.nextLine());
         arr[2] = value;
         int temp = arrNew[2];
