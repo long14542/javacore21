@@ -1,6 +1,4 @@
-package ontap_oop.Service;
-
-import ontap_oop.Product;
+package ontap_oop.products.Service;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -9,8 +7,8 @@ import java.util.Scanner;
 public class ProductService {
     private Product product;
 
-    public ontap_oop.Product creatProduct(Scanner scanner, String name, int id, String description, int quantity, double price, String unit,
-                                          ArrayList<Product> products){
+    public Product creatProduct(Scanner scanner, String name, int id, String description, int quantity, double price, String unit,
+                                ArrayList<Product> products){
         System.out.println("Please enter quantity of products: ");
         int n = Integer.parseInt(scanner.nextLine());
         for (int i = 0; i < n; i++){

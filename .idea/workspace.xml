@@ -5,34 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb6bfc41-b40b-45bb-9cb9-08584f5b2315" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraylisy/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraylisy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraylisy/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraylisy/service/Familyservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraylisy/service/Memberservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/bt4/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/bt4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/bt4/ManageHospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/bt4/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/bt4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Sinhvien/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Sinhvien/SinhVienBiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Sinhvien/SinhVienIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Sinhvien/SinhVienTechMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/bt1/ChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/bt1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/bt1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/bt1/Vuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/buoi6/handle/Studenthandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/khoitao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/Findname.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/Service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LOL/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LOL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LOL/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LOL/service/Figureservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LOL/service/Teamservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/entities/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/entities/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/service/ChangeEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/service/ChangeUsername.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/service/ForgetPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baikt/service/SignupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/FlyFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/IFlying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/ISwimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/bt1/INews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/bt1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/bt1/NewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hoc_interface/demo/bt1/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/btthem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/btthem/entity/BienLai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/btthem/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/btthem/service/BienLaiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/btthem/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab2/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab2/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab3/entities/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab3/entities/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab3/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab3/entities/service/WorkerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab3/entities/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab5/entity/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab5/entity/TYPE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab5/service/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/Follower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/Idol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/Tiktok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/service/Followerservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/service/Idolservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/service/Songservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiktok/service/Tiktokservice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ontap_oop/Findname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/Findname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ontap_oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ontap_oop/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ontap_oop/Service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/ProductService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +67,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,6 +85,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2SkGQiEiRsniq4XUdVyJTVzQTud" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -72,7 +100,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/GitHub/javacore21&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/GitHub/javacore21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,5 +120,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ontap_oop/products/Service/lab2/service/StudentService.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

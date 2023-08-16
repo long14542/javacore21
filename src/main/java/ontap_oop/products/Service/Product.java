@@ -1,4 +1,4 @@
-package ontap_oop;
+package ontap_oop.products.Service;
 
 public class Product {
     private static int autoID;

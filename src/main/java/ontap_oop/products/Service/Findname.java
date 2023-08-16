@@ -1,4 +1,4 @@
-package ontap_oop;
+package ontap_oop.products.Service;
 
 public class Findname {
     /*Product[] products = Product();

@@ -1,9 +1,6 @@
-package ontap_oop;
-
-import ontap_oop.Service.ProductService;
+package ontap_oop.products.Service;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -11,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         ProductService productService = new ProductService();
         ArrayList<Product> products = new ArrayList<>();
-        productService.creatProduct(scanner, name, id, description, quantity, price, unit, products);
+        //productService.creatProduct(scanner, name, id, description, quantity, price, unit, products);
 
         //products.creatProduct();
         System.out.println(products);
