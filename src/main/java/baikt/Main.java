@@ -11,8 +11,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         LoginService service = new LoginService();
-        Login login = new Login();
-        service.loginToAccount(scanner, login);
+        //Login login = new Login();
+        //service.loginToAccount(scanner, login);
         SignupService service1 = new SignupService();
         ForgetPassword forgetPassword = new ForgetPassword();
         System.out.println(service);
